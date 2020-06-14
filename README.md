@@ -2,4 +2,8 @@
 [Link to challenge output](https://dvaneman.github.io/Password-Generator/)<br />
 [Link to my website](https://github.com/DVanEman/Password-Generator.git)<br />
 I have created a password generator that allows the user to enter parameters based on what kind of password they are looking for. It will tell the user if they fail to provide the information provided.
+<<<<<<< HEAD
 ![this is a screenshot of my website](./assets/images/screenshot.png)
+=======
+![this is a screenshot of my website](assets/images/screenshot.png)
+>>>>>>> 9213de4e5ae77d7713f4c1dbc31531a91d804c00
